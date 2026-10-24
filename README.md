@@ -3,7 +3,7 @@
 A streaming chat client that uses only the Python standard library.
 
 ```bash
-export XPL_API_KEY="your-key"   # never commit this
+export EXPLABS_API_KEY="your-key"   # Settings -> API Keys; never commit this
 python -m experiential_labs.client "Hello from my product"
 ```
 
